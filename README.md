@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo Luiz 👋
+### Hello! I'm Gustavo Luiz 👋
 <div align="center">
   <a href="https://github.com/GustavoLuizO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLuizO&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
